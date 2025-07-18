@@ -21,7 +21,7 @@ This project is an interactive **Excel dashboard** designed to visualize and mon
 - **File name:** `Hospital Emergency Room Dashboard.xlsx`
 - **Software required:** Microsoft Excel 2016 or later (recommended for full feature support)
 
-##Sheets Overview
+## Sheets Overview
 
 | Sheet Name        | Description |
 | Dashboard         | Main interactive dashboard with charts and filters |
@@ -29,7 +29,7 @@ This project is an interactive **Excel dashboard** designed to visualize and mon
 | Pivot Tables      | Data summaries feeding into the dashboard visuals |
 | Lookup Tables     | Supporting data (e.g., triage levels, department names) |
 
-##Use Case
+## Use Case
 
 This Excel tool is intended for hospital administrators, ER managers, or analysts who need to:
 
@@ -57,6 +57,6 @@ You can modify the dashboard by:
 - Data is sample or anonymized for demonstration purposes.
 - For better performance, keep data sets under 100,000 rows.
 
-##Feedback / Contributions
+## Feedback / Contributions
 
 Feel free to open an issue or submit a pull request for improvements or ideas.
